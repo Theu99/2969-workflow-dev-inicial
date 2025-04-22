@@ -1,5 +1,6 @@
 // import db from '../db/dbconfig.js';
-
+/* eslint-disable class-methods-use-this */
+/* eslint-disable camelcase */
 class Evento {
     constructor({
         id,
